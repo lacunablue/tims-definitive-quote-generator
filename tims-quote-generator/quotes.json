@@ -1,121 +1,123 @@
-{
-  "quote" : "And the truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower; until at last he chooses nothing, but does only and wholly what he 𝘮𝘶𝘴𝘵 do.",
-  "source" : "Ursula K. LeGuin, A Wizard of Earthsea"
-},
-{
-  "quote" : "What is my joy if all hands, even the unclean, can reach into it? What is my wisdom, if even the fools can dictate to me? What is my freedom, if all creatures, even the botched and impotent, are my masters? What is my life, if I am but to bow, to agree, and to obey?",
-   "source" : "Ayn Rand, Anthem"
-},
-{
-  "quote" : "That's how you're going to beat 'em, Butch. Keep underestimating you.",
+[
+  {
+    "quote" : "And the truth is that as a man's real power grows and his knowledge widens, ever the way he can follow grows narrower; until at last he chooses nothing, but does only and wholly what he 𝘮𝘶𝘴𝘵 do.",
+    "source" : "Ursula K. LeGuin, A Wizard of Earthsea"
+  },
+  {
+    "quote" : "What is my joy if all hands, even the unclean, can reach into it? What is my wisdom, if even the fools can dictate to me? What is my freedom, if all creatures, even the botched and impotent, are my masters? What is my life, if I am but to bow, to agree, and to obey?",
+     "source" : "Ayn Rand, Anthem"
+  },
+  {
+    "quote" : "That's how you're going to beat 'em, Butch. Keep underestimating you.",
 
-  "source" : "Butch, Pulp Fiction"
-},
-{
-  "quote" : "Respect for ourselves guides our morals, respect for others guides our manners.",
-  "source" : "Laurence Sterne"
-},
-{
-  "quote" : "Don't confuse style with intent.",
-  "source" : "Capt. Picard, Star Trek: The Next Generation"
-},
-{
-  "quote" : "Simplicity is prerequisite for reliability.",
-  "source" : "Edsger Dijkstra"
-},
-{
-  "quote" : "A Black Belt is a White Belt who never quit.",
-  "source" : "Unknown"
-},
-{
-  "quote" : "My own brain is to me the most unaccountable of machinery - always buzzing, humming, soaring roaring diving, and then buried in mud. And why? What’s this passion for?",
-  "source" : "Virginia Woolf"
-},
-{
-  "quote" : "Do you wish to be great? Then begin by being. Do you desire to construct a vast and lofty fabric? Think first about the foundations of humility. The higher your structure is to be, the deeper must be its foundation",
-  "source" : "Saint Augustine"
-},
-{
-  "quote" : "I like the dreams of the future better than the history of the past.",
-  "source" : "Thomas Jefferson"
-},
-{
-  "quote" : "Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.",
-  "source" : "Nietzsche"
-},
-{
-  "quote" : "Anyone who has never made a mistake has never tried anything new.",
-  "source" : "Einstein"
-},
-{
-  "quote" : "Wildcat...",
-  "source" : "Eli Cash, The Royal Tenenbaums"
-},
-{
-  "quote" : "What do you mean? Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good on this morning; or that it is a morning to be good on?",
-  "source" : "Gandalf, The Lord of the Rings"
-},
-{
-  "quote" : "The aim of an argument or discussion should not be victory, but progress.",
-  "source" : "J. Joubert"
-},
-{
-  "quote" : "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
-  "source" : "Ralph Waldo Emerson"
-},
-{
-  "quote" : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
-  "source" : "Dr. Seuss"
-},
-{
-  "quote" : "Being is bliss in its nature.",
-  "source" : "Maharishi Mahesh Yogi"
-},
-{
-  "quote" : "I just do as I do.",
-  "source" : "Portugal. The Man"
-},
-{
-  "quote" : "[...] just another byproduct of the eternal titanic battle between the forces of chaos and order trying to work out their natural harmony [...].",
-  "source" : "Matt Pearson"
-},
-{
-  "quote" : "There’s no need to miss someone from your past. There’s a reason they didn’t make it to your future.",
-  "source" : "Unknown"
-},
-{
-  "quote" : "Strange that something that doesn't exist should be the essence of the matter.",
-  "source" : "Russell Roberts"
-},
-{
-  "quote" : "Great minds discuss ideas. Average minds discuss events. Small minds discuss people.",
-  "source" : "Eleanor Roosevelt"
-},
-{
-  "quote" : "I know that you believe you understand what you think I said, but I'm not sure you realize that what you heard is not what I meant.",
-  "source" : "Robert McCloskey"
-},
-{
-  "quote" : "Know, find or create the solution.",
-  "source" : "Andrew Hoover"
-},
-{
-  "quote" : "I don't understand, but I can tell it's bullshit.",
-  "source" : "Steve Zissou, The Life Aquatic"
-},
-{
-  "quote" : "One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.",
-  "source" : "Paulo Coelho"
-},
-{
-  "quote" : "The truest form of love is how you behave toward someone, not how you feel about them.",
-  "source" : "Steve Hall"
-},
-{
-  "quote" : "Life is either a daring adventure or nothing at all.",
-  "source" : "Helen Keller, The Open Door"
-},
-{
-  "quote" : "Optimism, pessimism, f*ck that – we’re going to make it happen.",
-  "source" : "Elon Musk"
-}
+    "source" : "Butch, Pulp Fiction"
+  },
+  {
+    "quote" : "Respect for ourselves guides our morals, respect for others guides our manners.",
+    "source" : "Laurence Sterne"
+  },
+  {
+    "quote" : "Don't confuse style with intent.",
+    "source" : "Capt. Picard, Star Trek: The Next Generation"
+  },
+  {
+    "quote" : "Simplicity is prerequisite for reliability.",
+    "source" : "Edsger Dijkstra"
+  },
+  {
+    "quote" : "A Black Belt is a White Belt who never quit.",
+    "source" : "Unknown"
+  },
+  {
+    "quote" : "My own brain is to me the most unaccountable of machinery - always buzzing, humming, soaring roaring diving, and then buried in mud. And why? What’s this passion for?",
+    "source" : "Virginia Woolf"
+  },
+  {
+    "quote" : "Do you wish to be great? Then begin by being. Do you desire to construct a vast and lofty fabric? Think first about the foundations of humility. The higher your structure is to be, the deeper must be its foundation",
+    "source" : "Saint Augustine"
+  },
+  {
+    "quote" : "I like the dreams of the future better than the history of the past.",
+    "source" : "Thomas Jefferson"
+  },
+  {
+    "quote" : "Battle not with monsters, lest ye become a monster, and if you gaze into the abyss, the abyss gazes also into you.",
+    "source" : "Nietzsche"
+  },
+  {
+    "quote" : "Anyone who has never made a mistake has never tried anything new.",
+    "source" : "Einstein"
+  },
+  {
+    "quote" : "Wildcat...",
+    "source" : "Eli Cash, The Royal Tenenbaums"
+  },
+  {
+    "quote" : "What do you mean? Do you wish me a good morning, or mean that it is a good morning whether I want it or not; or that you feel good on this morning; or that it is a morning to be good on?",
+    "source" : "Gandalf, The Lord of the Rings"
+  },
+  {
+    "quote" : "The aim of an argument or discussion should not be victory, but progress.",
+    "source" : "J. Joubert"
+  },
+  {
+    "quote" : "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+    "source" : "Ralph Waldo Emerson"
+  },
+  {
+    "quote" : "Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.",
+    "source" : "Dr. Seuss"
+  },
+  {
+    "quote" : "Being is bliss in its nature.",
+    "source" : "Maharishi Mahesh Yogi"
+  },
+  {
+    "quote" : "I just do as I do.",
+    "source" : "Portugal. The Man"
+  },
+  {
+    "quote" : "[...] just another byproduct of the eternal titanic battle between the forces of chaos and order trying to work out their natural harmony [...].",
+    "source" : "Matt Pearson"
+  },
+  {
+    "quote" : "There’s no need to miss someone from your past. There’s a reason they didn’t make it to your future.",
+    "source" : "Unknown"
+  },
+  {
+    "quote" : "Strange that something that doesn't exist should be the essence of the matter.",
+    "source" : "Russell Roberts"
+  },
+  {
+    "quote" : "Great minds discuss ideas. Average minds discuss events. Small minds discuss people.",
+    "source" : "Eleanor Roosevelt"
+  },
+  {
+    "quote" : "I know that you believe you understand what you think I said, but I'm not sure you realize that what you heard is not what I meant.",
+    "source" : "Robert McCloskey"
+  },
+  {
+    "quote" : "Know, find or create the solution.",
+    "source" : "Andrew Hoover"
+  },
+  {
+    "quote" : "I don't understand, but I can tell it's bullshit.",
+    "source" : "Steve Zissou, The Life Aquatic"
+  },
+  {
+    "quote" : "One day you will wake up and there won’t be any more time to do the things you’ve always wanted. Do it now.",
+    "source" : "Paulo Coelho"
+  },
+  {
+    "quote" : "The truest form of love is how you behave toward someone, not how you feel about them.",
+    "source" : "Steve Hall"
+  },
+  {
+    "quote" : "Life is either a daring adventure or nothing at all.",
+    "source" : "Helen Keller, The Open Door"
+  },
+  {
+    "quote" : "Optimism, pessimism, f*ck that – we’re going to make it happen.",
+    "source" : "Elon Musk"
+  }
+]
