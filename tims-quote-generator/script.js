@@ -28,7 +28,7 @@ document.getElementById("btn").addEventListener("click", function () {
     "-" + quotesArray[0][randomNumber]["source"];
 });
 // TO DO
-// [DONE]- integrate JSON for quotes, separate quote and source into two properties https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+// [DONE] integrate JSON for quotes, separate quote and source into two properties https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 // figure out why JSON data is position 0 of array
 // convert to a responsive format within CSS
 // change button to checkbox to enable pure CSS "onclick" animation rather than hover animation
